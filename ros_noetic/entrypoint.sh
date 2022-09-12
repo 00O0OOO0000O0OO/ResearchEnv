@@ -1,4 +1,4 @@
-#!/bin/bash -eu
+#!/bin/bash -e
 
 # setup ros environment
 source "/opt/ros/$ROS_DISTRO/setup.bash"
