@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -eu
 
 PROJECT_DIR=$(dirname $(cd $(dirname $BASH_SOURCE); pwd))
 source "$PROJECT_DIR/scripts/common.sh"
